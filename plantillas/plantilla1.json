@@ -1,0 +1,9 @@
+{
+  "hostname": "Router1",
+  "consola_pass": "1234",
+  "enable_pass": "1234",
+  "banner": "Mensaje del dia",
+  "lan_interface": "FastEthernet0/1",
+  "lan_ip": "192.168.1.1",
+  "lan_mask": "255.255.255.0"
+}
