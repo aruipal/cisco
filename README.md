@@ -28,5 +28,5 @@ Después de ejecutar el comando, PyInstaller creará varias carpetas y archivos.
     cisco.spec
 ```
 **4. Probar el .exe**<br>
-Ve a la carpeta dist y busca el archivo cisco.exe. Haz doble clic en él para verificar que todo funciona como esperas.
+Ve a la carpeta dist y busca el archivo cisco.exe. Haz doble clic para ejecutarlo.
 
