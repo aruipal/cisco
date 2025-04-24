@@ -2,7 +2,7 @@
 - En routers Cisco antiguos que no tienen botón "Mode", como los Cisco 2500, 2600 o 1700, el proceso de recuperación de contraseña cambia un poco, ya que no hay un botón físico para entrar en el modo ROMMON.
 - En estos casos, el proceso implica interrumpir el arranque del router manualmente durante el inicio para entrar en el **modo de recuperación (ROMMON).**
 
-###  Pasos para recuperación de contraseña en routers Cisco antiguos (sin botón Mode)
+###  ✅ Pasos para recuperación de contraseña en routers Cisco antiguos (sin botón Mode)
 **1. Conectar al router**
 - Conecta tu cable de consola (RS-232 o USB a consola) a tu computadora y al puerto de consola del router.
 - Configura tu programa de terminal (como PuTTY o Tera Term) a una velocidad de 9600 baudios.
