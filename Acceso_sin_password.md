@@ -1,6 +1,6 @@
 # Acceso a router cisco sin password. (Modelos con botón Mode)
 
-### :point_right:	:accessibility:	[Para modelos sin botón Mode.](https://github.com/aruipal/cisco/blob/main/.md)
+### :point_right:	:accessibility:	[Para modelos sin botón Mode.](https://github.com/aruipal/cisco/blob/main/Acceso_sin_password2.md)
 ___
 
 - Método común para recuperar el acceso a un router Cisco, especialmente cuando se ha olvidado la contraseña. 
