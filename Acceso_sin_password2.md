@@ -40,7 +40,7 @@ boot
 ```
 - El router arrancará sin la configuración guardada y te dará acceso al sistema sin pedir la contraseña.
 
-### Acceso al router sin contraseña
+### 🟢 Acceso al router sin contraseña
 - Una vez que el router haya arrancado, podrás acceder sin contraseña y cambiar la configuración:
 
 **1. Accede al modo privilegiado**
