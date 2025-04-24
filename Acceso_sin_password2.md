@@ -20,14 +20,14 @@ rommon 1 >
 - Este es el modo de recuperación ROMMON, que te permite realizar los siguientes pasos.
 
 **4. Inicializar el sistema de archivos**
-Una vez en el prompt rommon 1 >, necesitas inicializar el sistema de archivos para que puedas trabajar con los archivos almacenados en el router. Usa el siguiente comando:
+- Una vez en el prompt rommon 1 >, necesitas inicializar el sistema de archivos para que puedas trabajar con los archivos almacenados en el router. Usa el siguiente comando:
 ```
 flash_init
 ```
 - Esto inicializa el sistema de archivos en el router.
 
 **5. Renombrar el archivo de configuración**
-Para evitar que el router cargue la configuración actual con la contraseña olvidada, renombra el archivo de configuración con el siguiente comando:
+- Para evitar que el router cargue la configuración actual con la contraseña olvidada, renombra el archivo de configuración con el siguiente comando:
 ```
 rename flash:config.text flash:config.text.old
 ```
@@ -72,4 +72,3 @@ write memory
 ### 📅 Resultado esperado
 - El router arrancará sin configuraciones previas, y podrás acceder a él sin que te pida contraseña.
 - Podrás configurar el router nuevamente, incluyendo restablecer contraseñas o restaurar configuraciones anteriores.
-
