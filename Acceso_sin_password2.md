@@ -5,7 +5,7 @@
 ###  ✅ Pasos para recuperación de contraseña en routers Cisco antiguos (sin botón Mode)
 **1. Conectar al router**
 - Conecta tu cable de consola (RS-232 o USB a consola) a tu computadora y al puerto de consola del router.
-- Configura tu programa de terminal (como PuTTY o Tera Term) a una velocidad de 9600 baudios.
+- Configura tu programa de terminal (como PuTTY o MobaXterm) a una velocidad de 9600 baudios.
 
 **2. Apagar el router**
 - Desconecta el cable de alimentación del router.
