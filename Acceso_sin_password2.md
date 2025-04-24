@@ -69,7 +69,7 @@ enable secret NuevaContraseña
 ```
 write memory
 ```
-### Resultado esperado
+### 📅 Resultado esperado
 - El router arrancará sin configuraciones previas, y podrás acceder a él sin que te pida contraseña.
 - Podrás configurar el router nuevamente, incluyendo restablecer contraseñas o restaurar configuraciones anteriores.
 
